@@ -1,3 +1,3 @@
 # Personal-Website
-Basic personal websit<br/>
+Basic personal website<br/>
  **Visit** : [live demo]( https://vengadeshks.github.io/Personal-Website/)
